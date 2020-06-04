@@ -1,5 +1,5 @@
-def my_hash_creator(name, value)
-  { key => value }
+def my_hash_creator(key, value)
+  { name => value }
   end
   
 
