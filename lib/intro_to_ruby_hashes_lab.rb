@@ -1,5 +1,5 @@
 my_hash_creator(:name, "George")
-  my_hash_creator(:name, "George")
+{:name=>"George"}
   end
   
 
